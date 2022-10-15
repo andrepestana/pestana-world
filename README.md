@@ -4,7 +4,7 @@ Imagine that it is raining beer and at the same time a new virus starts to infec
 
 **[Play now](https://andrepestana.github.io/pestana-world/)**
 
-![Pestana World screenshot](screenshot.png)
+![Pestana World screenshot](screenshot.jpg)
 
 ## Usage
 

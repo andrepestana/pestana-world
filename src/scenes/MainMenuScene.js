@@ -9,8 +9,8 @@ export default class MainMenuScene extends Phaser.Scene {
 
     preload() {
         this.load.addFile(new WebFontFile(this.load, ['Press Start 2P']))
-        this.load.image('background', './assets/background.png');
-        this.load.image('background-game', './assets/background-new.png');
+        this.load.image('background', './assets/background.jpg');
+        this.load.image('background-game', './assets/background-new.jpg');
         this.load.spritesheet('character', './assets/andre.png', { frameWidth: 60, frameHeight: 100 });
 
 
